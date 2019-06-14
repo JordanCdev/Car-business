@@ -1,4 +1,6 @@
-﻿using System;
+//Incomplete - requires implentation of object attributes (member variables).
+
+using System;
 using System.Data;
 using System.IO;
 using System.Linq;
